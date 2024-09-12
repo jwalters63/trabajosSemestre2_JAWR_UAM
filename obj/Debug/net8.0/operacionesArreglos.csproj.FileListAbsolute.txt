@@ -1,0 +1,14 @@
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\bin\Debug\net8.0\operacionesArreglos.exe
+C:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\bin\Debug\net8.0\operacionesArreglos.deps.json
+C:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\bin\Debug\net8.0\operacionesArreglos.runtimeconfig.json
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\bin\Debug\net8.0\operacionesArreglos.dll
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\bin\Debug\net8.0\operacionesArreglos.pdb
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\operacionesArreglos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\operacionesArreglos.AssemblyInfoInputs.cache
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\operacionesArreglos.AssemblyInfo.cs
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\operacionesArreglos.csproj.CoreCompileInputs.cache
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\operacionesArreglos.dll
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\refint\operacionesArreglos.dll
+c:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\operacionesArreglos.pdb
+C:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\operacionesArreglos.genruntimeconfig.cache
+C:\Users\asus\Desktop\guam\codes\C#\operacionesArreglos\obj\Debug\net8.0\ref\operacionesArreglos.dll
