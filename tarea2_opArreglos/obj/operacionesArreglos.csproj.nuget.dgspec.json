@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\operacionesArreglos.csproj": {}
+    "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\tarea2_opArreglos\\operacionesArreglos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\operacionesArreglos.csproj": {
+    "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\tarea2_opArreglos\\operacionesArreglos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\operacionesArreglos.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\tarea2_opArreglos\\operacionesArreglos.csproj",
         "projectName": "operacionesArreglos",
-        "projectPath": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\operacionesArreglos.csproj",
+        "projectPath": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\tarea2_opArreglos\\operacionesArreglos.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\operacionesArreglos\\tarea2_opArreglos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
